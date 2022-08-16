@@ -5,6 +5,10 @@
     "chrono": "cpp",
     "array": "cpp",
     "initializer_list": "cpp",
-    "utility": "cpp"
+    "utility": "cpp",
+    "random": "cpp",
+    "deque": "cpp",
+    "string": "cpp",
+    "vector": "cpp"
   }
 }
