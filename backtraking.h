@@ -164,7 +164,6 @@ void backtraking(int a, int b, int esperado)
             cout << (")");
         }
         cout << endl;
-        cout << ("Nos vizitados " + explorados.size()) << endl;
     }
     else
     {
